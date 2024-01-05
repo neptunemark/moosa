@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/shakkir.jpeg",
+    profile_pic: "./image/moosa.jpeg",
     profile_logo: "",
 
-    Name: "Mohammed Shakir",
-    designation: "Sales Executive",
-    des_link_text: "@Al Mufrid Building Materials Trading",
+    Name: "Mosa Navas MS",
+    designation: "",
+    des_link_text: "",
     des_link: "https://neptunemark.com/",
-    contact: "./contact/shakkir.vcf",
+    contact: "./contact/Mosa Navas(7).vcf",
 };
 
 const contact ={
-    contact_no: "+971526378653",
-    whatsapp: "+971526378653",
+    contact_no: "+919745184219",
+    whatsapp: "+919745184219",
     location: "",
-    email: "almufrid13@gmail.com",
+    email: "",
 };
 
 const profilelogo=[
@@ -30,12 +30,12 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/shahinpk?mibextid=LQQJ4d"
+    visibil: true,
+    link:"https://www.facebook.com/moosa.navas.3?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
-    link:"patta_almufrid_dubai"
+    link:"https://www.instagram.com/moosa_navas?igsh=MWhpeWJyZ254aXp6cQ=="
   },
     skype={
     visibil: false,
@@ -46,8 +46,8 @@ const links =[
     link:"https://neptunemark.com/"
   },
     linkedin={
-    visibil: false,
-    link:"https://www.linkedin.com/in/muhammed-minhaj-p-a-6b329724a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    visibil: true,
+    link:"https://www.linkedin.com/in/moosa-navas-47a736233/"
   },
     behance={
     visibil: false,
