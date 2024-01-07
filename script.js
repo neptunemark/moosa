@@ -6,14 +6,14 @@ const person = {
     designation: "",
     des_link_text: "",
     des_link: "https://neptunemark.com/",
-    contact: "./contact/Mosa Navas(7).vcf",
+    contact: "./contact/Mosanavas.vcf",
 };
 
 const contact ={
     contact_no: "+919745184219",
     whatsapp: "+919745184219",
     location: "",
-    email: "",
+    email: "moosanavasms@gmail.com",
 };
 
 const profilelogo=[
